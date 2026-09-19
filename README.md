@@ -1,6 +1,6 @@
 # TESMS
 
-A cross-platform Flutter application that enables your device to act as a local SMS server, allowing developers to manage and send SMS through an API.
+An Android Flutter application that enables your device to act as a local SMS server, allowing developers to manage and send SMS through an API.
 
 ## Features
 
